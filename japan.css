@@ -1,24 +1,25 @@
-
 html, body {
   margin: 0;
   padding: 0;
 }
 
 h1 {
-  color: blue;
+  color: DarkSeaGreen;
+  font-family: Broadway;
 }
 
 h3 {
- font-family: cursive; 
+ font-family: Broadway; 
 }
 
 h2 {
-  color: blue;
-  font-family: Arial;
+  color: DarkSeaGreen;
+  font-family: Broadway;
 }
 
 p {
   font-family: Georgia;
 }
+
 
 
