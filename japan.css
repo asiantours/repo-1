@@ -6,20 +6,37 @@ html, body {
 h1 {
   color: DarkSeaGreen;
   font-family: Broadway;
+  font-size: 50px; 
+  text-align: center;
 }
 
 h3 {
- font-family: Broadway; 
+ font-family: Broadway;
+ font-size: 30px;
 }
 
 h2 {
   color: DarkSeaGreen;
   font-family: Broadway;
+  font-size: 40px;
+  text-align: center;
 }
 
 p {
   font-family: Georgia;
 }
+
+ul {
+  font-family: Georgia; 
+}
+
+li {
+  color: DarkSeaGreen;
+  font-family: Broadway;
+  font-size: 30px;
+  text-align: center;
+}
+  
 
 
 
