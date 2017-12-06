@@ -12,18 +12,20 @@ h1 {
 
 h3 {
  font-family: Broadway;
- font-size: 30px;
+ font-size: 20px;
+ text-align: center;
 }
 
 h2 {
   color: DarkSeaGreen;
   font-family: Broadway;
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
 }
 
 p {
   font-family: Georgia;
+  text-align: center;
 }
 
 ul {
