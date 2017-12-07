@@ -48,14 +48,10 @@ a {
   font-size: 13px;
   color: black;
 }
-
-.image {
-  background-image:
-    url("https://us.123rf.com/450wm/orpheus26/orpheus261508/orpheus26150800062/44332271-tokyo-japan--february-17-2015-senso-ji-is-an-ancient-buddhist-temple-located-in-asakusa-tokyo-japan-.jpg?ver=6");
-  height: 100px;
-  width: 50%
-  background-position: center; 
+#japantemple{
+  float: right; 
 }
+
  
   
 
