@@ -1,0 +1,55 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: DarkSeaGreen;
+  font-family: Broadway;
+  font-size: 50px; 
+  text-align: center;
+}
+
+h3 {
+ font-family: Broadway;
+ font-size: 20px;
+ text-align: center;
+  font-weight: 50;
+}
+
+h2 {
+  color: DarkSeaGreen;
+  font-family: Broadway;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 100;
+}
+
+p {
+  font-family: Georgia;
+  text-align: center;
+}
+
+ul {
+  font-family: Georgia;
+  text-align: center;
+}
+
+li {
+  color: DarkSeaGreen;
+  font-family: Broadway;
+  font-size: 30px;
+  text-align: center;
+}
+
+a {
+  text-align: center;
+  font-weight: 20;
+  font-size: 13px;
+  color: black;
+}
+
+div {
+  height: 200px;
+  width: 100%;
+}
