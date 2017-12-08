@@ -19,6 +19,12 @@ main {
   grid-auto-flow: column;
 }
 
+h1 {
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: centre;
+  
 h2 {
   font-family: Poppins;
   font-size: 18px;
