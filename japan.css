@@ -49,13 +49,13 @@ a {
   color: black;
 }
 #japantemple{
-  float: right; 
+  float: center; 
   width: 200;
   height: 150;
 }
 #japantwo {
-  float: right;
-  font-size: 200;
+  float: center;
+  width: 200;
   height: 150;
 }
  
