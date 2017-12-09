@@ -19,16 +19,10 @@ main {
   grid-auto-flow: column;
 }
 
-h1 {
-  font-family: Poppins;
-  font-size: 30px;
-  font-weight: 600;
-  text-align: centre;
-}
   
 h2 {
   font-family: Poppins;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
@@ -39,23 +33,14 @@ h2 {
 img {
   width: 100%;
   height: auto;
-}
-.name {
-  display: center;
-}
+
+
 
 .country {
   width: 200px;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
 }
 
-.a {
-}
-
-.c {
-}
-
-}
 
 .greeting { 
   display: inline-block;
@@ -63,7 +48,7 @@ img {
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
-  text-align: left;
+  text-align: centre;
   color: #4a4a4a;
   position: relative;
   bottom: 5px; }
