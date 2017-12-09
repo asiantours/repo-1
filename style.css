@@ -3,6 +3,9 @@ header, footer {
   text-align: center;
   min-width: 500px;
 }
+video {
+  
+}
 
 main {
   display: grid;
