@@ -68,6 +68,26 @@ a {
   width: 200;
   height: 150;
 }
+div.japantemple {
+    width:500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+}
+div.japantwo {
+    width:500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+}
+div.tokyopark {
+    width:500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+}
+div.universaljapan {
+    width:500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+}
 
   
 
