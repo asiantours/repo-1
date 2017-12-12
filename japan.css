@@ -52,41 +52,29 @@ a {
   float: center; 
   width: 200;
   height: 150;
+  width:500px;
+  margin: auto;
 }
 #japantwo {
   float: center;
   width: 200;
   height: 150;
+  width:500px;
+  margin: auto;
 }
 #tokyopark {
   float: center;
   width: 200;
   height: 150;
+  width:500px;
+  margin: auto;
 }
 #universaljapan {
   float: center;
   width: 200;
   height: 150;
-}
-#japantemple {
-    width:500px;
-    margin: auto;
-    border: 3px solid #73AD21;
-}
-div.japantwo {
-    width:500px;
-    margin: auto;
-    border: 3px solid #73AD21;
-}
-div.tokyopark {
-    width:500px;
-    margin: auto;
-    border: 3px solid #73AD21;
-}
-div.universaljapan {
-    width:500px;
-    margin: auto;
-    border: 3px solid #73AD21;
+  width:500px;
+  margin: auto;
 }
 
   
