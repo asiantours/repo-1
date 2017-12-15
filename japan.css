@@ -4,7 +4,7 @@ html, body {
 }
 
 h1 {
-  color: DarkSeaGreen;
+  color: #ff0018;
   font-family: Broadway;
   font-size: 50px; 
   text-align: center;
@@ -18,7 +18,7 @@ h3 {
 }
 
 h2 {
-  color: DarkSeaGreen;
+  color: #c31717;
   font-family: Broadway;
   font-size: 30px;
   text-align: center;
@@ -36,7 +36,7 @@ ul {
 }
 
 li {
-  color: DarkSeaGreen;
+  color: #ec2121;
   font-family: Broadway;
   font-size: 30px;
   text-align: center;
@@ -87,6 +87,7 @@ th {
   width: 500px;
 } 
 body {
-  background-color: #fffded
+  background-color: #e4e2cd
 }
+
 
