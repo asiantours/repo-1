@@ -89,6 +89,26 @@ th {
 body {
   background-color: #e4e2cd
 }
-#
+#sukiyaki {
+   float: right;
+  width: 200;
+  height: 150;
+  width: 1000px;
+  margin: auto;
+}
+#tempura {
+   float: right;
+  width: 200;
+  height: 150;
+  width: 1000px;
+  margin: auto;
+}
+#okonomiyaki {
+   float: right;
+  width: 200;
+  height: 150;
+  width: 1000px;
+  margin: auto;
+}
 
 
