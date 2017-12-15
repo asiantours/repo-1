@@ -49,13 +49,28 @@ a {
   color: black;
 }
 
-#boracay image {
+#boracaypic.{
   float: right;
   width: 200;
   height: 150;
   width: 1000px;
   margin: auto;
+}
   
+ #vigancity {
+  float: right;
+  width: 200;
+  height: 150;
+  width: 1000px;
+  margin: auto;  
+}
+
+#palawanpic{
+  float: right;
+  width: 200;
+  height: 150;
+  width: 1000px;
+  margin: auto;
 }
 table, td, th {
   border: 1px solid black;
