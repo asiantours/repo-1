@@ -5,7 +5,7 @@
 
 h1 {
   color: #d6efd6;
-  font-family: Broadway;
+  font-family: Broadway; 
   font-size: 50px; 
   text-align: center;
 }
@@ -77,5 +77,5 @@ a {
   margin: auto;
 }
 body {
- background-color:#529252;
+ background-color: #529252;
 }
