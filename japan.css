@@ -21,6 +21,7 @@ h2 {
   color: #c31717;
   font-family: Broadway;
   font-size: 30px;
+
   text-align: center;
   font-weight: 100;
 }
@@ -83,6 +84,7 @@ th {
 } 
 body {
   background-color: #e4e2cd
+  font-size: 30px; 
 }
 .navigation {
   width: 10px;
