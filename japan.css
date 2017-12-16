@@ -1,6 +1,6 @@
 html, body {
   margin: 0;
-  padding: 10px 5% 10px 5%;
+  padding: 10px 5% 10px 6%;
 }
 
 h1 {
@@ -78,26 +78,25 @@ a {
 }
 table, td, th {
   border: 1px solid black;
-  border-collapse: collapse;
   text-align: center;
   padding: 15px;
 }
 th {
   height:60px;
-  width: 500px;
+  width: 50px;
 } 
 body {
   background-color: #e4e2cd
 }
 #220px-Cookingsukiyaki {
-   float: right;
+   float: left;
   width: 200;
   height: 150;
   width: 1000px;
   margin: auto;
 }
 #Shrimp-Tempura1-865x584 {
-   float: right;
+   float: center;
   width: 200;
   height: 150;
   width: 1000px;
