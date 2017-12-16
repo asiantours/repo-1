@@ -49,29 +49,25 @@ a {
   color: red;
 }
 #japantemple{
-  float: center; 
-  width: 200;
+  float: center;
   height: 150;
   width:500px;
   margin: auto;
 }
 #japantwo {
   float: right;
-  width: 200;
   height: 150;
   width: 1000px;
   margin: auto;
 }
 #tokyopark {
   float: right;
-  width: 200;
   height: 150;
   width: 1000px;
   margin: auto;
 }
 #universaljapan {
   float: right;
-  width: 200;
   height: 150;
   width: 1000px;
   margin: auto;
@@ -87,27 +83,6 @@ th {
 } 
 body {
   background-color: #e4e2cd
-}
-#Sukiyaki {
-   float: left;
-  width: 200;
-  height: 150px;
-  width: 500px;
-  margin: auto;
-}
-#Shrimp-Tempura1-865x584 {
-   float: center;
-  width: 200;
-  height: 150px;
-  width: 500px;
-  margin: auto;
-}
-#OKONOMIYAKI-600x400 {
-   float: right;
-  width: 200;
-  height: 150px;
-  width: 500px;
-  margin: auto;
 }
 .navigation {
   width: 10px;
