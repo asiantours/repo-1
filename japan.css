@@ -41,6 +41,7 @@ li {
   font-family: Broadway;
   font-size: 30px;
   text-align: center;
+  font-size: 30px; 
 }
 
 a {
@@ -84,7 +85,6 @@ th {
 } 
 body {
   background-color: #e4e2cd
-  font-size: 30px; 
 }
 .navigation {
   width: 10px;
