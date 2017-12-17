@@ -18,7 +18,7 @@ h3 {
 }
 
 h2 {
-  color: #840f1f;
+ color: #840f1f;
   font-family: Broadway;
   font-size: 30px;
   text-align: center;
@@ -48,30 +48,26 @@ a {
   font-size: 13px;
   color: black;
 }
-# {                   
-  float: center; 
-  width: 200;
+#lebanoncedar {                   
+  float: center;
   height: 150;
   width:500px;
   margin: auto;
 }
 #{
   float: right;
-  width: 200;
   height: 150;
   width: 1000px;
   margin: auto;
 }
 # {                 
   float: right;
-  width: 200;
   height: 150;
   width: 900px;
   margin: auto;
 }
 # {             
   float: right;
-  width: 200;
   height: 150;
   width: 1000px;
   margin: auto;
