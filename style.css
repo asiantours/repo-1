@@ -1,12 +1,13 @@
 .grid {
-  border: 2px blue solid;
-  width: 400px;
-  height: 500px;
+  border: 1px blue solid;
+  width: 1000px;
+  height: 1000px;
   display: grid;
   grid-template-columns: 100px 50% 200px;
 }
 .box{
-  background-color: beige;
+  background-color: #fffff4;
   color: black;
   border-radius: 5px;
-  border: 2px black solid;
+  border: 2px #d8c419 solid;
+}
