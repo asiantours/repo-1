@@ -4,7 +4,7 @@ html, body {
 }
 
 h1 {
-  color: #ff0018;
+  color: DarkRed;
   font-family: Broadway;
   font-size: 50px; 
   text-align: center;
@@ -18,7 +18,7 @@ h3 {
 }
 
 h2 {
-  color: #c31717;
+  color: DarkRed;
   font-family: Broadway;
   font-size: 30px;
   text-align: center;
@@ -48,43 +48,16 @@ a {
   font-size: 13px;
   color: red;
 }
-# {
-  float: center; 
-  width: 200;
-  height: 150;
-  width:500px;
-  margin: auto;
-}
-# {
-  float: right;
-  width: 200;
-  height: 150;
-  width: 1000px;
-  margin: auto;
-}
-# {
-  float: right;
-  width: 200;
-  height: 150;
-  width: 1000px;
-  margin: auto;
-}
-# {
-  float: right;
-  width: 200;
-  height: 150;
-  width: 1000px;
-  margin: auto;
-}
 table, td, th {
   border: 1px solid black;
   text-align: center;
   padding: 15px;
+  background-color: white;
 }
 th {
   height:60px;
   width: 50px;
 } 
 body {
-  background-color: #e4e2cd
+  background-color: #F0E68C;
 }
