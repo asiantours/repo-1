@@ -22,7 +22,7 @@ h3 {
   font-family: Broadway;
   font-size: 30px;
  text-align: center;
-  font-weight: 100;
+ font-weight: 100;
 }
 p {
   font-family: Georgia;
@@ -47,24 +47,24 @@ a {
   color: red;
 }
 #lebanoncedar {                   
-  float: center;
+  float: right;
   height: 150;
   width: 500px;
-  margin: 0;
+  margin: auto;
 
 }
 #valley {
-  float: center;
+  float: right;
   height: 150;
-  width: 50px;
-  margin: 0;
+  width: 500px;
+  margin: auto;
  
 }
 #cave {                 
-  float: center;
+  float: right;
   height: 150;
-  width: 100px;
-  margin: 0;
+  width: 500px;
+  margin: auto;
 
 }
 #muesum {             
