@@ -51,27 +51,21 @@ a {
   height: 150;
   width: 500px;
   margin: 0;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+
 }
 #valley {
   float: center;
   height: 150;
   width: 50px;
   margin: 0;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+ 
 }
 #cave {                 
   float: center;
   height: 150;
   width: 100px;
   margin: 0;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+
 }
 # {             
   float: right;
