@@ -37,7 +37,7 @@ li {
   color: #840f1f;
   font-family: Broadway;
   font-size: 30px;
-  text-align: center;
+  text-align: right;
 }
 
 a {
@@ -55,7 +55,7 @@ a {
 #valley {
   float: center;
   height: 150;
-  width: 500px;
+  width: 1000px;
   margin: 0;
 }
 # {                 
