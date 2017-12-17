@@ -17,6 +17,8 @@ main {
   grid-auto-flow: column;
 }
 
+
+
 h2 {
   font-family: Impact;
   font-size: 18px;
@@ -31,6 +33,10 @@ img {
   width: 100%;
   height: auto;
 }
+
+.country {
+  width: 200px;
+  box-shadow; 0 1px 1px 0 rgba(0, 0, 0, 0.5);
 
 .description {
   font-family: Trebuchet MS;
