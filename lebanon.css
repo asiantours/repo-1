@@ -46,33 +46,6 @@ a {
   font-size: 13px;
   color: red;
 }
-#lebanoncedar {                   
-  float: center;
-  height: 150;
-  width: 500px;
-  margin: 0;
-
-}
-#valley {
-  float: center;
-  height: 150;
-  width: 500px;
-  margin: 0;
- 
-}
-#cave {                 
-  float: center;
-  height: 150;
-  width: 500px;
-  margin: 0;
-
-}
-#muesum {             
-  float: right;
-  height: 150;
-  width: 500px;
-  margin: auto;
-}
 body {
  background-color: #529252;
 }
