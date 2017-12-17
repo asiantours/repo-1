@@ -18,7 +18,7 @@ h3 {
   font-weight: 50;
 }
   h2 {
-  color: #840f1f;
+    color: #840f1f;
   font-family: Broadway;
   font-size: 30px;
  text-align: center;
@@ -47,24 +47,24 @@ a {
   color: red;
 }
 #lebanoncedar {                   
-  float: right;
+  float: center;
   height: 150;
   width: 500px;
-  margin: auto;
+  margin: 0;
 
 }
 #valley {
-  float: right;
+  float: center;
   height: 150;
   width: 500px;
-  margin: auto;
+  margin: 0;
  
 }
 #cave {                 
-  float: right;
+  float: center;
   height: 150;
   width: 500px;
-  margin: auto;
+  margin: 0;
 
 }
 #muesum {             
