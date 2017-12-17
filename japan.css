@@ -48,30 +48,6 @@ a {
   font-size: 13px;
   color: red;
 }
-#japantemple{
-  float: center;
-  height: 150;
-  width:500px;
-  margin: auto;
-}
-#japantwo {
-  float: right;
-  height: 150;
-  width: 1000px;
-  margin: auto;
-}
-#tokyopark {
-  float: right;
-  height: 150;
-  width: 1000px;
-  margin: auto;
-}
-#universaljapan {
-  float: right;
-  height: 150;
-  width: 1000px;
-  margin: auto;
-}
 table, td, th {
   border: 1px solid black;
   text-align: center;
