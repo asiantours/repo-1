@@ -1,3 +1,4 @@
+
 html, body {
   margin: 0;
   padding: 10px 5% 10px 6%;
@@ -52,6 +53,7 @@ table, td, th {
   border: 1px solid black;
   text-align: center;
   padding: 15px;
+  background-color: beige;
 }
 th {
   height:60px;
