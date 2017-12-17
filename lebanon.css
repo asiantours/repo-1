@@ -17,8 +17,7 @@ h3 {
  text-align: center;
   font-weight: 50;
 }
-
-h2 {
+  h2 {
  color: #840f1f;
   font-family: Broadway;
    font-size: 30px;
@@ -52,7 +51,7 @@ a {
 #lebanoncedar {                   
   float: center;
   height: 150;
-  width: 500px;
+  width: 400px;
   margin: auto;
 }
 #{
