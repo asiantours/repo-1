@@ -19,7 +19,7 @@ h3 {
 }
 
 h2 {
-beach  color: white;
+  color: white;
   font-family: Broadway;
   font-size: 30px;
   text-align: center;
@@ -53,7 +53,7 @@ table, td, th {
   border: 1px solid black;
   text-align: center;
   padding: 15px;
-  background-color: SkyBlue;
+  background-color: white;
 }
 th {
   height:60px;
