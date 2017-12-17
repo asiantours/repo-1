@@ -20,7 +20,7 @@ h3 {
 h2 {
  color: #840f1f;
   font-family: Broadway;
-  font-size: 30px;
+   font-size: 30px;
   text-align: center;
   font-weight: 100;
 }
@@ -49,9 +49,9 @@ a {
   color: black;
 }
 #lebanoncedar {                   
-  float: center;
+  float: left;
   height: 150;
-  width:500px;
+  width: 100px;
   margin: auto;
 }
 #{
