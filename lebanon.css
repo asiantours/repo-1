@@ -61,11 +61,14 @@ a {
   margin-left: auto;
   margin-right: auto;
 }
-# {                 
-  float: right;
+#cave {                 
+  float: center;
   height: 150;
-  width: 900px;
-  margin: auto;
+  width: 50px;
+  margin: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 # {             
   float: right;
