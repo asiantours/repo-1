@@ -29,7 +29,6 @@ p {
   font-family: Georgia;
   text-align: center;
 }
-
 ul {
   font-family: Georgia;
   text-align: center;
@@ -49,10 +48,10 @@ a {
   color: red;
 }
 #lebanoncedar {                   
-  float: right;
+  float: center;
   height: 150;
   width: 500px;
-  margin: auto;
+  margin: 0;
 }
 #{
   float: right;
