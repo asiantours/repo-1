@@ -52,6 +52,7 @@ table, td, th {
   border: 1px solid black;
   text-align: center;
   padding: 15px;
+  background-color: white;
 }
 th {
   height:60px;
