@@ -10,15 +10,30 @@ header .row {
 header h1 { 
   font-weight: 700;
   margin: 0;
-   
+  font-family: Impact;
+  color: #049db1
+    
 }
 header nav {
- display: flex;
+  display: flex;
   justify-content: flex-end;
 }
 
 header p {
   padding: 0 20px;
   margin: 0;
+}
+
+h2 {
+  font-family: sans-serif; 
+  color: #ce9a00
+}
+
+p {
+  font-family: sans-serif;
+  font-size: larger;
+  font-weight: bold;
+  color: #0b1317
+
 }
 
