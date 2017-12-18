@@ -18,7 +18,7 @@ h3 {
   font-weight: 50;
 }
   h2 {
-  color: white;
+  color: #3f515a;
  font-family: Impact;
   font-size: 30px;
  text-align: center;
@@ -27,6 +27,7 @@ h3 {
 p {
   font-family: Georgia;
   text-align: center;
+  color:#1b2225
 }
 ul {
   font-family: Georgia;
@@ -34,7 +35,7 @@ ul {
 }
 
 li {                                                     
-  color: #840f1f;
+  color: #fffefe;
   font-family: Impact;
   font-size: 30px;
   text-align: center;
@@ -47,15 +48,17 @@ a {
   color: red;
 }
 body {
- background-color: #529252;
+ background-color: #8bc2ca;
 }
 table, td, th {
- border: 1px solid black;
+ border: 1px solid #35449c;
  text-align: center;
  padding: 15px;
-  background-color: white;
+  background-color: #FFEB3B;
 }
 th {
  height: 60px;
  width: 50px;
+ color: #8BC34A
+ font-family: Impact; 
 }
