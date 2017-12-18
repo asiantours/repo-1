@@ -6,13 +6,13 @@ html, body {
 
 h1 {
   color: white;
-  font-family: Broadway;
+  font-family: Impact;
   font-size: 50px; 
   text-align: center;
 }
 
 h3 {
- font-family: Broadway;
+ font-family: Impact;
  font-size: 20px;
  text-align: center;
   font-weight: 50;
@@ -20,7 +20,7 @@ h3 {
 
 h2 {
   color: white;
-  font-family: Broadway;
+  font-family: Impact;
   font-size: 30px;
   text-align: center;
   font-weight: 100;
@@ -38,7 +38,7 @@ ul {
 
 li {
   color: #ec2121;
-  font-family: Broadway;
+  font-family: Impact;
   font-size: 30px;
   text-align: center;
 }
