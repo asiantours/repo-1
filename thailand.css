@@ -1,12 +1,11 @@
-
 html, body {
   margin: 0;
-  padding: 10px 5% 10px 6%;
+  padding: 10px 5% 10px 5%;
 }
 
 h1 {
-  color: white;
-  font-family: Impact;
+  color: #d6efd6;
+  font-family: Impact; 
   font-size: 50px; 
   text-align: center;
 }
@@ -17,27 +16,25 @@ h3 {
  text-align: center;
   font-weight: 50;
 }
-
-h2 {
-  color: white;
-  font-family: Impact;
+  h2 {
+  color: #3f515a;
+ font-family: Impact;
   font-size: 30px;
-  text-align: center;
-  font-weight: 100;
+ text-align: center;
+ font-weight: 100;
 }
-
 p {
   font-family: Georgia;
   text-align: center;
+  color:#1b2225
 }
-
 ul {
   font-family: Georgia;
   text-align: center;
 }
 
-li {
-  color: #ec2121;
+li {                                                     
+  color: #fffefe;
   font-family: Impact;
   font-size: 30px;
   text-align: center;
@@ -49,16 +46,20 @@ a {
   font-size: 13px;
   color: red;
 }
+body {
+ background-color: #8bc2ca;
+}
 table, td, th {
-  border: 1px solid black;
-  text-align: center;
-  padding: 15px;
-  background-color: white;
+ border: 1px solid #35449c;
+ text-align: center;
+ padding: 15px;
+  background-color: #FFEB3B;
 }
 th {
-  height:60px;
-  width: 50px;
-} 
-body {
-  background-color: #4169E1;
+ height: 60px;
+ width: 50px;
+ color: #8BC34A
+ font-family: Impact; 
 }
+
+
